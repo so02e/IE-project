@@ -1,0 +1,235 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0095022,37.29567963 ]
+    },
+    "properties": {
+    "Name":"장안문 지구대"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9417915,37.29168151 ]
+    },
+    "properties": {
+    "Name":"당수 파출소"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9931163,37.28670519 ]
+    },
+    "properties": {
+    "Name":"화서문 지구대"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.971618,37.29790121 ]
+    },
+    "properties": {
+    "Name":"율천 파출소"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0218957,37.29101098 ]
+    },
+    "properties": {
+    "Name":"창룡문 파출소"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0399157,37.26507515 ]
+    },
+    "properties": {
+    "Name":"매탄 지구대"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0298887,37.25179667 ]
+    },
+    "properties": {
+    "Name":"곡선 지구대"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0313405,37.27565559 ]
+    },
+    "properties": {
+    "Name":"인계 파출소"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0152567,37.24265363 ]
+    },
+    "properties": {
+    "Name":"세류 파출소"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0476069,37.28854426 ]
+    },
+    "properties": {
+    "Name":"광교 파출소"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0143365,37.26904491 ]
+    },
+    "properties": {
+    "Name":"유천 파출소"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9515367,37.27309796 ]
+    },
+    "properties": {
+    "Name":"호매실 파출소"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9862338,37.25196076 ]
+    },
+    "properties": {
+    "Name":"고색 파출소"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0213074,37.28292887 ]
+    },
+    "properties": {
+    "Name":"행궁 파출소"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0295834,37.28084592 ]
+    },
+    "properties": {
+    "Name":"동부 파출소"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0529954,37.26860237 ]
+    },
+    "properties": {
+    "Name":"산남 지구대"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0777734,37.2547675 ]
+    },
+    "properties": {
+    "Name":"영통 지구대"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0295083,37.25977088 ]
+    },
+    "properties": {
+    "Name":"권선 파출소"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0553658,37.24027293 ]
+    },
+    "properties": {
+    "Name":"태장 파출소"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9998381,37.26607203 ]
+    },
+    "properties": {
+    "Name":"매산 지구대"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0024535,37.273019 ]
+    },
+    "properties": {
+    "Name":"고등 파출소"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9713094,37.28068253 ]
+    },
+    "properties": {
+    "Name":"서호 지구대"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9879468,37.31031149 ]
+    },
+    "properties": {
+    "Name":"노송 지구대"
+    }
+  }
+]
+}
