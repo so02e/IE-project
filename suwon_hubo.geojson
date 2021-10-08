@@ -1,0 +1,3325 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9501454,37.27088631 ]
+    },
+    "properties": {
+    "gid":"다사51a19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9500798,37.2798999 ]
+    },
+    "properties": {
+    "gid":"다사51a20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0402654,37.28929843 ]
+    },
+    "properties": {
+    "gid":"다사59a21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0344858,37.31181057 ]
+    },
+    "properties": {
+    "gid":"다사58b23b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0740846,37.29393192 ]
+    },
+    "properties": {
+    "gid":"다사62a21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9836425,37.32061349 ]
+    },
+    "properties": {
+    "gid":"다사54a24b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0174144,37.33427681 ]
+    },
+    "properties": {
+    "gid":"다사57a26a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9840428,37.26202497 ]
+    },
+    "properties": {
+    "gid":"다사54a18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0684692,37.28940462 ]
+    },
+    "properties": {
+    "gid":"다사61b21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0628024,37.29389078 ]
+    },
+    "properties": {
+    "gid":"다사61a21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9729538,37.23493428 ]
+    },
+    "properties": {
+    "gid":"다사53a15a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0174721,37.32526321 ]
+    },
+    "properties": {
+    "gid":"다사57a25a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9502437,37.25736589 ]
+    },
+    "properties": {
+    "gid":"다사51a17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.07411,37.28942505 ]
+    },
+    "properties": {
+    "gid":"다사62a21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9728597,37.2484548 ]
+    },
+    "properties": {
+    "gid":"다사53a16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9389337,37.26181979 ]
+    },
+    "properties": {
+    "gid":"다사50a18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9615844,37.24840407 ]
+    },
+    "properties": {
+    "gid":"다사52a16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0461226,37.25326528 ]
+    },
+    "properties": {
+    "gid":"다사59b17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0628545,37.28487705 ]
+    },
+    "properties": {
+    "gid":"다사61a20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0572405,37.28034922 ]
+    },
+    "properties": {
+    "gid":"다사60b20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0853668,37.29397198 ]
+    },
+    "properties": {
+    "gid":"다사63a21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9332275,37.27080652 ]
+    },
+    "properties": {
+    "gid":"다사49b19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9616485,37.23939041 ]
+    },
+    "properties": {
+    "gid":"다사52a15b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0174433,37.32977001 ]
+    },
+    "properties": {
+    "gid":"다사57a25b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0232578,37.30275199 ]
+    },
+    "properties": {
+    "gid":"다사57b22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0458249,37.30284075 ]
+    },
+    "properties": {
+    "gid":"다사59b22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9444399,37.27987356 ]
+    },
+    "properties": {
+    "gid":"다사50b20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9613277,37.28445857 ]
+    },
+    "properties": {
+    "gid":"다사52a20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0062737,37.31169623 ]
+    },
+    "properties": {
+    "gid":"다사56a23b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0405667,37.23972288 ]
+    },
+    "properties": {
+    "gid":"다사59a15b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0346246,37.28927639 ]
+    },
+    "properties": {
+    "gid":"다사58b21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9785905,37.23495923 ]
+    },
+    "properties": {
+    "gid":"다사53b15a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0349296,37.23970088 ]
+    },
+    "properties": {
+    "gid":"다사58b15b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9389002,37.26632659 ]
+    },
+    "properties": {
+    "gid":"다사50a18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9840121,37.2665318 ]
+    },
+    "properties": {
+    "gid":"다사54a18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0121199,37.28017186 ]
+    },
+    "properties": {
+    "gid":"다사56b20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0345691,37.29829007 ]
+    },
+    "properties": {
+    "gid":"다사58b22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9558495,37.26189875 ]
+    },
+    "properties": {
+    "gid":"다사51b18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9499486,37.29792705 ]
+    },
+    "properties": {
+    "gid":"다사51a22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9615523,37.25291089 ]
+    },
+    "properties": {
+    "gid":"다사52a17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0006015,37.31617936 ]
+    },
+    "properties": {
+    "gid":"다사55b24a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0288434,37.31178824 ]
+    },
+    "properties": {
+    "gid":"다사58a23b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9612312,37.29797894 ]
+    },
+    "properties": {
+    "gid":"다사52a22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0006313,37.31167255 ]
+    },
+    "properties": {
+    "gid":"다사55b23b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0517073,37.26230051 ]
+    },
+    "properties": {
+    "gid":"다사60a18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.012149,37.27566502 ]
+    },
+    "properties": {
+    "gid":"다사56b19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9613598,37.27995177 ]
+    },
+    "properties": {
+    "gid":"다사52a20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0686749,37.25334958 ]
+    },
+    "properties": {
+    "gid":"다사61b17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9331937,37.27531331 ]
+    },
+    "properties": {
+    "gid":"다사49b19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0066857,37.24860056 ]
+    },
+    "properties": {
+    "gid":"다사56a16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9839813,37.27103863 ]
+    },
+    "properties": {
+    "gid":"다사54a19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9669362,37.2889909 ]
+    },
+    "properties": {
+    "gid":"다사52b21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0401831,37.30281896 ]
+    },
+    "properties": {
+    "gid":"다사59a22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0459332,37.28481335 ]
+    },
+    "properties": {
+    "gid":"다사59b20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9781864,37.29354797 ]
+    },
+    "properties": {
+    "gid":"다사53b21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9780307,37.31608195 ]
+    },
+    "properties": {
+    "gid":"다사53b24a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9502109,37.2618727 ]
+    },
+    "properties": {
+    "gid":"다사51a18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9445723,37.26184638 ]
+    },
+    "properties": {
+    "gid":"다사50b18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0459603,37.28030649 ]
+    },
+    "properties": {
+    "gid":"다사59b20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0629066,37.27586331 ]
+    },
+    "properties": {
+    "gid":"다사61a19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.057346,37.26232173 ]
+    },
+    "properties": {
+    "gid":"다사60b18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9725454,37.29352297 ]
+    },
+    "properties": {
+    "gid":"다사53a21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0462307,37.23523773 ]
+    },
+    "properties": {
+    "gid":"다사59b15a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.978342,37.27101391 ]
+    },
+    "properties": {
+    "gid":"다사53b19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.079876,37.2669108 ]
+    },
+    "properties": {
+    "gid":"다사62b18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0403202,37.28028473 ]
+    },
+    "properties": {
+    "gid":"다사59a20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0572669,37.27584236 ]
+    },
+    "properties": {
+    "gid":"다사60b19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.966809,37.30701807 ]
+    },
+    "properties": {
+    "gid":"다사52b23a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0293206,37.23517173 ]
+    },
+    "properties": {
+    "gid":"다사58a15a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0687006,37.24884268 ]
+    },
+    "properties": {
+    "gid":"다사61b16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0855152,37.26693068 ]
+    },
+    "properties": {
+    "gid":"다사63a18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0123524,37.24411705 ]
+    },
+    "properties": {
+    "gid":"다사56b16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9669044,37.2934977 ]
+    },
+    "properties": {
+    "gid":"다사52b21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0518675,37.23525919 ]
+    },
+    "properties": {
+    "gid":"다사60a15a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0347911,37.26223525 ]
+    },
+    "properties": {
+    "gid":"다사58b18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9616165,37.24389724 ]
+    },
+    "properties": {
+    "gid":"다사52a16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0175297,37.31624959 ]
+    },
+    "properties": {
+    "gid":"다사57a24a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0345413,37.30279691 ]
+    },
+    "properties": {
+    "gid":"다사58b22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0006909,37.30265894 ]
+    },
+    "properties": {
+    "gid":"다사55b22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0235704,37.25317668 ]
+    },
+    "properties": {
+    "gid":"다사57b17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0685978,37.26687024 ]
+    },
+    "properties": {
+    "gid":"다사61b18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0573988,37.25330796 ]
+    },
+    "properties": {
+    "gid":"다사60b17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0175873,37.30723595 ]
+    },
+    "properties": {
+    "gid":"다사57a23a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0291243,37.26671982 ]
+    },
+    "properties": {
+    "gid":"다사58a18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.989438,37.29810399 ]
+    },
+    "properties": {
+    "gid":"다사54b22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.955882,37.25739194 ]
+    },
+    "properties": {
+    "gid":"다사51b17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0401282,37.31183263 ]
+    },
+    "properties": {
+    "gid":"다사59a23b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0123234,37.24862391 ]
+    },
+    "properties": {
+    "gid":"다사56b16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0797257,37.29395208 ]
+    },
+    "properties": {
+    "gid":"다사62b21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9501126,37.27539311 ]
+    },
+    "properties": {
+    "gid":"다사51a19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9672221,37.24842957 ]
+    },
+    "properties": {
+    "gid":"다사52b16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0064504,37.28465531 ]
+    },
+    "properties": {
+    "gid":"다사56a20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9388668,37.27083338 ]
+    },
+    "properties": {
+    "gid":"다사50a19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9727341,37.26648211 ]
+    },
+    "properties": {
+    "gid":"다사53a18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0572141,37.28485609 ]
+    },
+    "properties": {
+    "gid":"다사60b20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0402105,37.29831212 ]
+    },
+    "properties": {
+    "gid":"다사59a22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0008696,37.275618 ]
+    },
+    "properties": {
+    "gid":"다사55b19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9670315,37.27547049 ]
+    },
+    "properties": {
+    "gid":"다사52b19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0063032,37.30718942 ]
+    },
+    "properties": {
+    "gid":"다사56a23a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0236272,37.24416294 ]
+    },
+    "properties": {
+    "gid":"다사57b16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.984135,37.24850446 ]
+    },
+    "properties": {
+    "gid":"다사54a16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9388334,37.27534017 ]
+    },
+    "properties": {
+    "gid":"다사50a19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.040375,37.27127101 ]
+    },
+    "properties": {
+    "gid":"다사59a19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9445392,37.26635318 ]
+    },
+    "properties": {
+    "gid":"다사50b18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0575042,37.23528039 ]
+    },
+    "properties": {
+    "gid":"다사60b15a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9671903,37.2529364 ]
+    },
+    "properties": {
+    "gid":"다사52b17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9952299,37.27559408 ]
+    },
+    "properties": {
+    "gid":"다사55a19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0347634,37.26674212 ]
+    },
+    "properties": {
+    "gid":"다사58b18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9951998,37.28010091 ]
+    },
+    "properties": {
+    "gid":"다사55a20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9951396,37.28911456 ]
+    },
+    "properties": {
+    "gid":"다사55a21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0290962,37.27122668 ]
+    },
+    "properties": {
+    "gid":"다사58a19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9782175,37.28904117 ]
+    },
+    "properties": {
+    "gid":"다사53b21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9837658,37.30258632 ]
+    },
+    "properties": {
+    "gid":"다사54a22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0459061,37.28932021 ]
+    },
+    "properties": {
+    "gid":"다사59b21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9557198,37.27992597 ]
+    },
+    "properties": {
+    "gid":"다사51b20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0799011,37.26240391 ]
+    },
+    "properties": {
+    "gid":"다사62b18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0685207,37.28039088 ]
+    },
+    "properties": {
+    "gid":"다사61b20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9950492,37.302635 ]
+    },
+    "properties": {
+    "gid":"다사55a22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0288996,37.30277459 ]
+    },
+    "properties": {
+    "gid":"다사58a22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0405393,37.24422977 ]
+    },
+    "properties": {
+    "gid":"다사59a16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0630889,37.24431512 ]
+    },
+    "properties": {
+    "gid":"다사61a16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0292645,37.24418549 ]
+    },
+    "properties": {
+    "gid":"다사58a16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9950191,37.30714181 ]
+    },
+    "properties": {
+    "gid":"다사55a23a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9953803,37.25305989 ]
+    },
+    "properties": {
+    "gid":"다사55a17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0460144,37.27129277 ]
+    },
+    "properties": {
+    "gid":"다사59b19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.978093,37.30706837 ]
+    },
+    "properties": {
+    "gid":"다사53b23a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9780618,37.31157516 ]
+    },
+    "properties": {
+    "gid":"다사53b23b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9555899,37.29795313 ]
+    },
+    "properties": {
+    "gid":"다사51b22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0120035,37.29819918 ]
+    },
+    "properties": {
+    "gid":"다사56b22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0514666,37.30286226 ]
+    },
+    "properties": {
+    "gid":"다사60a22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0291524,37.26221296 ]
+    },
+    "properties": {
+    "gid":"다사58a18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0232863,37.29824516 ]
+    },
+    "properties": {
+    "gid":"다사57b22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0066563,37.25310741 ]
+    },
+    "properties": {
+    "gid":"다사56a17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0404298,37.26225728 ]
+    },
+    "properties": {
+    "gid":"다사59a18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0458791,37.29382706 ]
+    },
+    "properties": {
+    "gid":"다사59b21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0630629,37.24882201 ]
+    },
+    "properties": {
+    "gid":"다사61a16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9784663,37.2529866 ]
+    },
+    "properties": {
+    "gid":"다사53b17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0460956,37.25777215 ]
+    },
+    "properties": {
+    "gid":"다사59b17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0516806,37.26680739 ]
+    },
+    "properties": {
+    "gid":"다사60a18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9669998,37.27997729 ]
+    },
+    "properties": {
+    "gid":"다사52b20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0629848,37.26234268 ]
+    },
+    "properties": {
+    "gid":"다사61a18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0179898,37.24414013 ]
+    },
+    "properties": {
+    "gid":"다사57a16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9668726,37.29800449 ]
+    },
+    "properties": {
+    "gid":"다사52b22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0236555,37.23965607 ]
+    },
+    "properties": {
+    "gid":"다사57b15b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9836734,37.31610671 ]
+    },
+    "properties": {
+    "gid":"다사54a24a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9672855,37.2394159 ]
+    },
+    "properties": {
+    "gid":"다사52b15b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0347079,37.27575584 ]
+    },
+    "properties": {
+    "gid":"다사58b19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.938733,37.28886052 ]
+    },
+    "properties": {
+    "gid":"다사50a21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0515736,37.28483485 ]
+    },
+    "properties": {
+    "gid":"다사60a20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0686492,37.25785647 ]
+    },
+    "properties": {
+    "gid":"다사61b17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9840735,37.25751814 ]
+    },
+    "properties": {
+    "gid":"다사54a17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0630108,37.25783579 ]
+    },
+    "properties": {
+    "gid":"다사61a17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9727026,37.27098893 ]
+    },
+    "properties": {
+    "gid":"다사53a19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9729225,37.23944113 ]
+    },
+    "properties": {
+    "gid":"다사53a15b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9443736,37.28888714 ]
+    },
+    "properties": {
+    "gid":"다사50b21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.972451,37.30704335 ]
+    },
+    "properties": {
+    "gid":"다사53a23a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9614561,37.26643134 ]
+    },
+    "properties": {
+    "gid":"다사52a18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0571348,37.29837666 ]
+    },
+    "properties": {
+    "gid":"다사60b22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0457706,37.31185442 ]
+    },
+    "properties": {
+    "gid":"다사59b23b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0631149,37.23980822 ]
+    },
+    "properties": {
+    "gid":"다사61a15b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0347356,37.27124898 ]
+    },
+    "properties": {
+    "gid":"다사58b19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0629327,37.27135644 ]
+    },
+    "properties": {
+    "gid":"다사61a19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.983889,37.28455909 ]
+    },
+    "properties": {
+    "gid":"다사54a20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9892856,37.32063798 ]
+    },
+    "properties": {
+    "gid":"다사54b24b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9614882,37.26192453 ]
+    },
+    "properties": {
+    "gid":"다사52a18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.983735,37.30709312 ]
+    },
+    "properties": {
+    "gid":"다사54a23a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9386995,37.2933673 ]
+    },
+    "properties": {
+    "gid":"다사50a21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0742623,37.26238377 ]
+    },
+    "properties": {
+    "gid":"다사62a18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9950794,37.29812819 ]
+    },
+    "properties": {
+    "gid":"다사55a22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0065681,37.26662796 ]
+    },
+    "properties": {
+    "gid":"다사56a18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9783109,37.27552073 ]
+    },
+    "properties": {
+    "gid":"다사53b19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0572933,37.27133548 ]
+    },
+    "properties": {
+    "gid":"다사60b19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0571877,37.28936295 ]
+    },
+    "properties": {
+    "gid":"다사60b21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0573724,37.25781485 ]
+    },
+    "properties": {
+    "gid":"다사60b17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0799261,37.25789702 ]
+    },
+    "properties": {
+    "gid":"다사62b17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9783731,37.26650709 ]
+    },
+    "properties": {
+    "gid":"다사53b18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0628284,37.28938392 ]
+    },
+    "properties": {
+    "gid":"다사61a21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0349019,37.24420776 ]
+    },
+    "properties": {
+    "gid":"다사58b16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9443404,37.29339392 ]
+    },
+    "properties": {
+    "gid":"다사50b21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0518141,37.24427298 ]
+    },
+    "properties": {
+    "gid":"다사60a16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0401557,37.3073258 ]
+    },
+    "properties": {
+    "gid":"다사59a23a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0516271,37.27582113 ]
+    },
+    "properties": {
+    "gid":"다사60a19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0289839,37.28925408 ]
+    },
+    "properties": {
+    "gid":"다사58a21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0178462,37.26667443 ]
+    },
+    "properties": {
+    "gid":"다사57a18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9893466,37.3116244 ]
+    },
+    "properties": {
+    "gid":"다사54b23b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0179037,37.25766072 ]
+    },
+    "properties": {
+    "gid":"다사57a17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9952901,37.26658042 ]
+    },
+    "properties": {
+    "gid":"다사55a18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0684435,37.29391148 ]
+    },
+    "properties": {
+    "gid":"다사61b21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9896815,37.26204941 ]
+    },
+    "properties": {
+    "gid":"다사54b18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0346524,37.28476954 ]
+    },
+    "properties": {
+    "gid":"다사58b20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0461767,37.24425151 ]
+    },
+    "properties": {
+    "gid":"다사59b16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9949889,37.31164861 ]
+    },
+    "properties": {
+    "gid":"다사55a23b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0233716,37.28472465 ]
+    },
+    "properties": {
+    "gid":"다사57b20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9781241,37.30256157 ]
+    },
+    "properties": {
+    "gid":"다사53b22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.961424,37.27093815 ]
+    },
+    "properties": {
+    "gid":"다사52a19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0235988,37.24866981 ]
+    },
+    "properties": {
+    "gid":"다사57b16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0006611,37.30716575 ]
+    },
+    "properties": {
+    "gid":"다사55b23a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9838582,37.2890659 ]
+    },
+    "properties": {
+    "gid":"다사54a21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0063916,37.29366896 ]
+    },
+    "properties": {
+    "gid":"다사56a21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0462037,37.23974462 ]
+    },
+    "properties": {
+    "gid":"다사59b15b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0515469,37.28934171 ]
+    },
+    "properties": {
+    "gid":"다사60a21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9837042,37.31159991 ]
+    },
+    "properties": {
+    "gid":"다사54a23b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0404846,37.25324353 ]
+    },
+    "properties": {
+    "gid":"다사59a17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0120908,37.28467869 ]
+    },
+    "properties": {
+    "gid":"다사56b20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.989803,37.24402204 ]
+    },
+    "properties": {
+    "gid":"다사54b16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0290682,37.27573353 ]
+    },
+    "properties": {
+    "gid":"다사58a19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.029012,37.28474723 ]
+    },
+    "properties": {
+    "gid":"다사58a20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0122943,37.25313077 ]
+    },
+    "properties": {
+    "gid":"다사56b17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9782486,37.28453436 ]
+    },
+    "properties": {
+    "gid":"다사53b20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.074313,37.25336998 ]
+    },
+    "properties": {
+    "gid":"다사62a17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0234852,37.26669726 ]
+    },
+    "properties": {
+    "gid":"다사57b18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0119744,37.302706 ]
+    },
+    "properties": {
+    "gid":"다사56b22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9501782,37.2663795 ]
+    },
+    "properties": {
+    "gid":"다사51a18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9387664,37.28435374 ]
+    },
+    "properties": {
+    "gid":"다사50a20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9838274,37.29357271 ]
+    },
+    "properties": {
+    "gid":"다사54a21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0345969,37.29378323 ]
+    },
+    "properties": {
+    "gid":"다사58b21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0799762,37.24888322 ]
+    },
+    "properties": {
+    "gid":"다사62b16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0008398,37.28012483 ]
+    },
+    "properties": {
+    "gid":"다사55b20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0008993,37.27111116 ]
+    },
+    "properties": {
+    "gid":"다사55b19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9897727,37.24852889 ]
+    },
+    "properties": {
+    "gid":"다사54b16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0405119,37.24873665 ]
+    },
+    "properties": {
+    "gid":"다사59a16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.99526,37.27108725 ]
+    },
+    "properties": {
+    "gid":"다사55a19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0233432,37.28923149 ]
+    },
+    "properties": {
+    "gid":"다사57b21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0233147,37.29373833 ]
+    },
+    "properties": {
+    "gid":"다사57b21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.966968,37.2844841 ]
+    },
+    "properties": {
+    "gid":"다사52b20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0574251,37.24880108 ]
+    },
+    "properties": {
+    "gid":"다사60b16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9672538,37.24392274 ]
+    },
+    "properties": {
+    "gid":"다사52b16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0517874,37.24877987 ]
+    },
+    "properties": {
+    "gid":"다사60a16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9445061,37.27085998 ]
+    },
+    "properties": {
+    "gid":"다사50b19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0292365,37.24869236 ]
+    },
+    "properties": {
+    "gid":"다사58a16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0461497,37.24875839 ]
+    },
+    "properties": {
+    "gid":"다사59b16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0516004,37.28032799 ]
+    },
+    "properties": {
+    "gid":"다사60a20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9782798,37.28002755 ]
+    },
+    "properties": {
+    "gid":"다사53b20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0573197,37.26682861 ]
+    },
+    "properties": {
+    "gid":"다사60b18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9953502,37.25756674 ]
+    },
+    "properties": {
+    "gid":"다사55a17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9894989,37.28909036 ]
+    },
+    "properties": {
+    "gid":"다사54b21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0064799,37.28014848 ]
+    },
+    "properties": {
+    "gid":"다사56a20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9785284,37.24397292 ]
+    },
+    "properties": {
+    "gid":"다사53b16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0235136,37.2621904 ]
+    },
+    "properties": {
+    "gid":"다사57b18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9726398,37.28000256 ]
+    },
+    "properties": {
+    "gid":"다사53a20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0176449,37.29822231 ]
+    },
+    "properties": {
+    "gid":"다사57a22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.944473,37.27536677 ]
+    },
+    "properties": {
+    "gid":"다사50b19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0234284,37.27571096 ]
+    },
+    "properties": {
+    "gid":"다사57b19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9894075,37.30261079 ]
+    },
+    "properties": {
+    "gid":"다사54b22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0518408,37.23976609 ]
+    },
+    "properties": {
+    "gid":"다사60a15b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.023542,37.25768354 ]
+    },
+    "properties": {
+    "gid":"다사57b17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0290401,37.28024039 ]
+    },
+    "properties": {
+    "gid":"다사58a20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0742877,37.25787688 ]
+    },
+    "properties": {
+    "gid":"다사62a17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0629587,37.26684956 ]
+    },
+    "properties": {
+    "gid":"다사61a18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9841657,37.24399762 ]
+    },
+    "properties": {
+    "gid":"다사54a16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0292085,37.25319923 ]
+    },
+    "properties": {
+    "gid":"다사58a17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0348188,37.25772839 ]
+    },
+    "properties": {
+    "gid":"다사58b17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0120617,37.28918553 ]
+    },
+    "properties": {
+    "gid":"다사56b21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0459874,37.27579963 ]
+    },
+    "properties": {
+    "gid":"다사59b19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0120326,37.29369235 ]
+    },
+    "properties": {
+    "gid":"다사56b21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9557522,37.27541917 ]
+    },
+    "properties": {
+    "gid":"다사51b19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0119453,37.30721282 ]
+    },
+    "properties": {
+    "gid":"다사56b23a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0346801,37.28026269 ]
+    },
+    "properties": {
+    "gid":"다사58b20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0234,37.28021781 ]
+    },
+    "properties": {
+    "gid":"다사57b20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9897423,37.25303573 ]
+    },
+    "properties": {
+    "gid":"다사54b17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0009588,37.26209748 ]
+    },
+    "properties": {
+    "gid":"다사55b18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0404572,37.2577504 ]
+    },
+    "properties": {
+    "gid":"다사59a17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0234568,37.27120411 ]
+    },
+    "properties": {
+    "gid":"다사57b19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.006421,37.28916214 ]
+    },
+    "properties": {
+    "gid":"다사56a21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0289558,37.29376092 ]
+    },
+    "properties": {
+    "gid":"다사58a21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0515201,37.29384857 ]
+    },
+    "properties": {
+    "gid":"다사60a21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0403476,37.27577787 ]
+    },
+    "properties": {
+    "gid":"다사59a19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0180185,37.23963326 ]
+    },
+    "properties": {
+    "gid":"다사57a15b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0404024,37.26676414 ]
+    },
+    "properties": {
+    "gid":"다사59a18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0514399,37.30736911 ]
+    },
+    "properties": {
+    "gid":"다사60a23a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0065093,37.27564164 ]
+    },
+    "properties": {
+    "gid":"다사56a19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9726083,37.28450936 ]
+    },
+    "properties": {
+    "gid":"다사53a20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9895293,37.28458355 ]
+    },
+    "properties": {
+    "gid":"다사54b20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0178175,37.27118128 ]
+    },
+    "properties": {
+    "gid":"다사57a19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0571612,37.29386981 ]
+    },
+    "properties": {
+    "gid":"다사60b21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9785594,37.23946608 ]
+    },
+    "properties": {
+    "gid":"다사53b15b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0065387,37.2711348 ]
+    },
+    "properties": {
+    "gid":"다사56a19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9841043,37.2530113 ]
+    },
+    "properties": {
+    "gid":"다사54a17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9784973,37.24847976 ]
+    },
+    "properties": {
+    "gid":"다사53b16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9781553,37.29805478 ]
+    },
+    "properties": {
+    "gid":"다사53b22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9612634,37.29347216 ]
+    },
+    "properties": {
+    "gid":"다사52a21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0065975,37.26212112 ]
+    },
+    "properties": {
+    "gid":"다사56a18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0007207,37.29815212 ]
+    },
+    "properties": {
+    "gid":"다사55b22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0630369,37.2533289 ]
+    },
+    "properties": {
+    "gid":"다사61a17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9896511,37.26655624 ]
+    },
+    "properties": {
+    "gid":"다사54b18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0574515,37.24429418 ]
+    },
+    "properties": {
+    "gid":"다사60b16a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.01776,37.28019497 ]
+    },
+    "properties": {
+    "gid":"다사57a20a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0177887,37.27568813 ]
+    },
+    "properties": {
+    "gid":"다사57a19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0066269,37.25761427 ]
+    },
+    "properties": {
+    "gid":"다사56a17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9953201,37.26207358 ]
+    },
+    "properties": {
+    "gid":"다사55a18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.989377,37.3071176 ]
+    },
+    "properties": {
+    "gid":"다사54b23a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0177312,37.28470181 ]
+    },
+    "properties": {
+    "gid":"다사57a20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9615203,37.25741771 ]
+    },
+    "properties": {
+    "gid":"다사52a17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0063327,37.3026826 ]
+    },
+    "properties": {
+    "gid":"다사56a22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0292926,37.23967861 ]
+    },
+    "properties": {
+    "gid":"다사58a15b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9557847,37.27091236 ]
+    },
+    "properties": {
+    "gid":"다사51b19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0063621,37.29817578 ]
+    },
+    "properties": {
+    "gid":"다사56a22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9726712,37.27549574 ]
+    },
+    "properties": {
+    "gid":"다사53a19b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0176161,37.30272913 ]
+    },
+    "properties": {
+    "gid":"다사57a22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0121781,37.27115818 ]
+    },
+    "properties": {
+    "gid":"다사56b19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0177024,37.28920864 ]
+    },
+    "properties": {
+    "gid":"다사57a21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0176737,37.29371548 ]
+    },
+    "properties": {
+    "gid":"다사57a21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0348742,37.24871464 ]
+    },
+    "properties": {
+    "gid":"다사58b16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9951697,37.28460774 ]
+    },
+    "properties": {
+    "gid":"다사55a20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0178749,37.26216758 ]
+    },
+    "properties": {
+    "gid":"다사57a18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0348465,37.25322151 ]
+    },
+    "properties": {
+    "gid":"다사58b17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9951095,37.29362137 ]
+    },
+    "properties": {
+    "gid":"다사55a21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0122072,37.26665133 ]
+    },
+    "properties": {
+    "gid":"다사56b18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0122653,37.25763763 ]
+    },
+    "properties": {
+    "gid":"다사56b17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0574778,37.23978729 ]
+    },
+    "properties": {
+    "gid":"다사60b15b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.045852,37.2983339 ]
+    },
+    "properties": {
+    "gid":"다사59b22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9837966,37.29807952 ]
+    },
+    "properties": {
+    "gid":"다사54a22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0122362,37.26214448 ]
+    },
+    "properties": {
+    "gid":"다사56b18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0460685,37.26227903 ]
+    },
+    "properties": {
+    "gid":"다사59b18a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0179324,37.25315386 ]
+    },
+    "properties": {
+    "gid":"다사57a17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0516538,37.27131426 ]
+    },
+    "properties": {
+    "gid":"다사60a19a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0291804,37.2577061 ]
+    },
+    "properties": {
+    "gid":"다사58a17b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0007505,37.2936453 ]
+    },
+    "properties": {
+    "gid":"다사55b21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0799511,37.25339012 ]
+    },
+    "properties": {
+    "gid":"다사62b17a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0289277,37.29826775 ]
+    },
+    "properties": {
+    "gid":"다사58a22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0236839,37.23514919 ]
+    },
+    "properties": {
+    "gid":"다사57b15a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9558171,37.26640556 ]
+    },
+    "properties": {
+    "gid":"다사51b18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0179611,37.248647 ]
+    },
+    "properties": {
+    "gid":"다사57a16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0007803,37.28913848 ]
+    },
+    "properties": {
+    "gid":"다사55b21a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0457978,37.30734759 ]
+    },
+    "properties": {
+    "gid":"다사59b23a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9724824,37.30253656 ]
+    },
+    "properties": {
+    "gid":"다사53a22b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9894684,37.29359718 ]
+    },
+    "properties": {
+    "gid":"다사54b21b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0743384,37.24886308 ]
+    },
+    "properties": {
+    "gid":"다사62a16b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0009291,37.26660432 ]
+    },
+    "properties": {
+    "gid":"다사55b18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9725139,37.29802977 ]
+    },
+    "properties": {
+    "gid":"다사53a22a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0460415,37.2667859 ]
+    },
+    "properties": {
+    "gid":"다사59b18b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9668408,37.30251128 ]
+    },
+    "properties": {
+    "gid":"다사52b22b"
+    }
+  }
+]
+}
